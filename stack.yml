@@ -6,4 +6,4 @@ functions:
   kubecon:
     lang: python
     handler: ./kubecon
-    image: alexellis/kubecon
+    image: viveksyngh/kubecon
